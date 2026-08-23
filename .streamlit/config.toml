@@ -1,16 +1,15 @@
 [theme]
-# Cor dos botões, seletores ativos e destaques principais
-primaryColor = "#0066CC"
+# Cor dos botões, seletores ativos e destaques principais (Azul Corporativo)
+primaryColor = "#0080FF"
 
-# Cor de fundo principal da página
-# (Nota: O Streamlit restringe algumas cores de fundo globais para manter a acessibilidade)
-backgroundColor = "#FFFFFF"
+# Cor de fundo principal da página (Escuro Slate 900)
+backgroundColor = "#0F172A"
 
-# Cor de fundo da barra lateral e dos blocos/cartões (containers)
-secondaryBackgroundColor = "#F0F2F6"
+# Cor de fundo da barra lateral e dos blocos/cartões (Slate 800)
+secondaryBackgroundColor = "#1E293B"
 
-# Cor dos textos gerais
-textColor = "#262730"
+# Cor dos textos gerais (Off-white)
+textColor = "#F8FAFC"
 
-# Estilo da fonte ('sans serif', 'serif' ou 'monospace')
+# Estilo da fonte
 font = "sans serif"
