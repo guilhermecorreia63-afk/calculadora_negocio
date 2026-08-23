@@ -1,0 +1,16 @@
+[theme]
+# Cor dos botões, seletores ativos e destaques principais
+primaryColor = "#0066CC"
+
+# Cor de fundo principal da página
+# (Nota: O Streamlit restringe algumas cores de fundo globais para manter a acessibilidade)
+backgroundColor = "#FFFFFF"
+
+# Cor de fundo da barra lateral e dos blocos/cartões (containers)
+secondaryBackgroundColor = "#F0F2F6"
+
+# Cor dos textos gerais
+textColor = "#262730"
+
+# Estilo da fonte ('sans serif', 'serif' ou 'monospace')
+font = "sans serif"
